@@ -1,0 +1,39 @@
+body {
+  background-color: #bbded6;
+  text-align: center;
+}
+
+.Top {
+}
+
+.Welcome {
+  margin-bottom: 50px;
+}
+
+h1 {
+  font-family: 'Sacramento', cursive;
+  padding-bottom: 10px;
+  font-size: 5rem;
+  position: relative;
+}
+
+p {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 25px;
+  margin: 0
+}
+
+.SammyPic img {
+  width: 400px;
+  border-radius: 100%;
+  transform: rotate(180deg);
+
+}
+
+.bone img {
+  width: 150px;
+  position: relative;
+  top: 80px;
+right: 200px;
+
+}
